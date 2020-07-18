@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Web Design and Development - Apssdc'
+project = 'Git & GitHub'
 copyright = '2020, APSSDC'
 author = 'APSSDC'
 
